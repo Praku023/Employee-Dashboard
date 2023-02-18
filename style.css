@@ -1,0 +1,259 @@
+.header
+{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1645px;
+height: 135px;
+left: 41px;
+top: 33px;
+
+background: #111111;
+border: 2px solid #808080;
+border-radius: 20px;
+}
+
+header{
+    position: absolute;
+width: 549px;
+height: 58px;
+left: 92px;
+top: 71px;
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+
+.profile
+{
+    box-sizing: border-box;
+
+position: absolute;
+width: 506px;
+height: 311px;
+left: 41px;
+top: 197px;
+
+background: #111111;
+border: 2px solid #808080;
+border-radius: 20px;
+}
+.profile img
+{
+  
+padding-left:150px;
+    width: 190px;
+    height: 190px;
+    left: 199px;
+    top: 227px;
+    
+    
+    background: url(100k-ai-faces-6.jpg);
+    border-radius: 100000px;
+}
+
+.profile p{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+
+
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.Details
+{
+    box-sizing: border-box;
+
+position: absolute;
+width: 500px;
+height: 355px;
+left: 47px;
+top: 537px;
+
+background: #111111;
+border: 2px solid #808080;
+border-radius: 20px;
+}
+.Details ul{
+    width: 236px;
+    height: 29px;
+    left: 110px;
+    top: 584px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.Social
+{
+    box-sizing: border-box;
+
+position: absolute;
+width: 506px;
+height: 306px;
+left: 41px;
+top: 928px;
+
+background: #111111;
+border: 2px solid #808080;
+border-radius: 20px;
+}
+.Social li
+{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 20px;
+line-height: 29px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #808080;
+}
+.SocialMedia
+{
+    padding-left: 20px;
+}
+
+
+.email
+{
+    position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 25%;
+bottom: 45.83%;
+
+}
+.facebook
+{
+    position: absolute;
+left: 8.33%;;
+right: 8.33%;
+top: 38%;
+bottom: 8.33%;
+
+
+}
+.insta
+{
+    position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 55%;
+bottom: 33.51%;
+
+
+}
+.git
+{
+    position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 65%;
+bottom: 8.33%;
+
+
+}
+
+.table{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1102px;
+height: 1036px;
+left: 584px;
+top: 197px;
+
+background: #111111;
+border: 2px solid #808080;
+border-radius: 20px;
+}
+.table h1{
+    position: absolute;
+width: 564px;
+height: 58px;
+left: 60px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+}
+.tableInner
+{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1013px;
+height: 874px;
+left: 10px;
+top: 130px;
+
+border: 1px solid #808080;
+border-radius: 20px;
+}
+table 
+{
+ 
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #808080;
+}
+.id{
+    position: absolute;
+    width: 24px;
+    height: 29px;
+    left: 30px;
+    top: 30px;
+   
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #808080;
+}
